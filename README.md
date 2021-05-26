@@ -5,6 +5,9 @@
   I am a sophomore at <b>Institute of Engineering and Management, Kolkata</b>
 </p>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Arka2001&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 <p>📫 How to reach me:innocent:</p>
 
 <p align='center'>
