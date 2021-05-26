@@ -5,8 +5,6 @@
   I am a sophomore at <b>Institute of Engineering and Management, Kolkata</b>
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Arka2001&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
 
 <p>📫 How to reach me:innocent:</p>
 
@@ -56,6 +54,8 @@ My Interests :heart_eyes:<br>
 ## My Github Statistics:
 
 ![Sayantan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arka2001&theme=tokyonight&show_icons=true)
+
+![trophy](https://github-profile-trophy.vercel.app/?username=Arka2001&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![Top Languanges](https://github-readme-stats.vercel.app/api/top-langs/?username=Arka2001)
 
