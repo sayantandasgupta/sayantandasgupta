@@ -55,7 +55,7 @@ My Interests :heart_eyes:<br>
 
 ![Sayantan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arka2001&theme=tokyonight&show_icons=true)
 
-![trophy](https://github-profile-trophy.vercel.app/?username=Arka2001&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Arka2001&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![Top Languanges](https://github-readme-stats.vercel.app/api/top-langs/?username=Arka2001)
 
