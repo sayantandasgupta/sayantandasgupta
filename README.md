@@ -59,7 +59,7 @@ My Interests :heart_eyes:<br>
 
 ![Top Languanges](https://github-readme-stats.vercel.app/api/top-langs/?username=Arka2001&layout=compact&theme=dracula)
 
-<!-- ![Weekly Status](https://github-readme-stats.vercel.app/api/wakatime?username=Arka2001&layout=compact&theme=dracula) -->
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Arka2001&repo=Learning-C&theme=dracula)](https://github.com/anuraghazra/Learning-C)
 
 
 <!--
