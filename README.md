@@ -86,9 +86,9 @@
 
 - :telescope: I’m currently working on an e commerce application using the Flutter framework and the Dart programming language with Firebase Firestore as its backend.
 - :seedling: I’m currently increasing my Data Structures and Algorithms Skills using the Java programming language. I am also learning a little bit of the C programming language, the repository can be found [here](https://github.com/Arka2001/Learning-C). You can find my works [here](https://github.com/Arka2001?tab=repositories)
-- :speech_balloon: Ask me about Flutter, Java, Dart, Heartbreaks ;), Python, Life Advices (Pun intended ;))
+- :speech_balloon: Ask me about Flutter, Java, Dart, Heartbreaks 😉, Python, Life Advices (Pun intended 😜)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Sometimes I pretend to be normal :sleepy: . But it is boring, so I go back to being myself ;) :sunglasses:
+- ⚡ Fun fact: Sometimes I pretend to be normal :sleepy: . But it is boring, so I go back to being myself 😉 :sunglasses:
 <!-- - :dancing_men: I’m looking to collaborate on ... -->
 
 <hr>
