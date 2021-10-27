@@ -59,8 +59,6 @@ My Interests :heart_eyes:<br>
 
 ![Top Languanges](https://github-readme-stats.vercel.app/api/top-langs/?username=Arka2001&layout=compact&theme=dracula)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Arka2001&repo=Learning-C&theme=dracula)](https://github.com/anuraghazra/Learning-C)
-
 
 <!--
 **Arka2001/Arka2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
