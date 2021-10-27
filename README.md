@@ -51,6 +51,7 @@
 
 - Framework(s): &nbsp;
   ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter&logoColor=007ACC)
+  ![Android](https://img.shields.io/badge/-Android-333333?style=flat&logo=android)
 
 - Database(s):  &nbsp;
   ![MySql](https://img.shields.io/badge/-MySql-333333?style=flat&logo=mysql)
@@ -63,6 +64,10 @@
 
 - Text Editors: &nbsp;
   ![Vim](https://img.shields.io/badge/-Vim-333333?style=flat&logo=vim)
+  
+- Operating Systems: &nbsp;
+  ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
+  ![Windows](https://img.shields.io/badge/-Windows-333333?style=flat&logo=windows)
 
 <!-- <img align = 'left' alt = 'Python' width='36px' src="https://user-images.githubusercontent.com/55111154/100546857-8ba9c700-3289-11eb-9627-ae469441946b.png"/>
 
