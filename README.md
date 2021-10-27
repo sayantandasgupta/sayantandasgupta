@@ -50,9 +50,9 @@ My Interests :heart_eyes:<br>
   ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter&logoColor=007ACC)
 
 - Database(s):  &nbsp;
+  ![MySql](https://img.shields.io/badge/-MySql-333333?style=flat&logo=mysql)
   <!-- ![Firestore](https://img.shields.io/badge/-Firestore-333333?style=flat&logo=firebase)
   ![MongoDB Atlas](https://img.shields.io/badge/-MongoDB%20Atlas-333333?style=flat&logo=mongodb) -->
-  ![MySql](https://img.shields.io/badge/-MySql-333333?style=flat&logo=mysql)
 
 - IDEs: &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
