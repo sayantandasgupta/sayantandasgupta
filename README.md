@@ -1,9 +1,11 @@
-### Hi there 👋:smile:
+#### Hola Amigos! Mucho Gusto <img src="./assets/hi.gif" width=30px alt="waving hand"/>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=Arka2001&label=Profile%20Views&color=blue&style=plastic%22%20alt=%22Arka2001" /> </p> -->
 
 <p align='center'>
   My name is <b>Sayantan Dasgupta</b>.<br/>
   I am a 3rd year student at <b>Institute of Engineering and Management, Kolkata</b>
 </p>
+<hr>
 
 
 <p>📫 How to reach me:innocent:</p>
@@ -31,9 +33,20 @@ My Interests :heart_eyes:<br>
 - History
 - Music :guitar:
 
-## Languages and software that I know and/or use:
+<hr>
 
-<img align = 'left' alt = 'Python' width='36px' src="https://user-images.githubusercontent.com/55111154/100546857-8ba9c700-3289-11eb-9627-ae469441946b.png"/>
+
+## **🛠 &nbsp;Tech Stack**
+
+- Languages : &nbsp;
+  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007ACC)
+  ![Dart](https://img.shields.io/badge/-Dart-333333?style=flat&logo=Dart&logoColor=007ACC)
+  ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C)
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python)
+  ![CPP](https://img.shields.io/badge/-CPP-333333?style=flat&logo=cplusplus)
+  ![Kotlin](https://img.shields.io/badge/-Kotlin-333333?style=flat&logo=Kotlin)
+
+<!-- <img align = 'left' alt = 'Python' width='36px' src="https://user-images.githubusercontent.com/55111154/100546857-8ba9c700-3289-11eb-9627-ae469441946b.png"/>
 
 <img align = "left" alt = "C++" width = "46px" src="https://user-images.githubusercontent.com/55111154/100549944-5f4b7600-329c-11eb-8d47-a3d5f47bd248.png" />
 
@@ -45,19 +58,21 @@ My Interests :heart_eyes:<br>
 
 <img align="left" alt="Git" width="32px" src= "https://user-images.githubusercontent.com/55111154/100549956-74280980-329c-11eb-8b47-62b3ea97e5ca.png"/>
 
-<img align="left" alt="VSCode" width="36px" src= "https://user-images.githubusercontent.com/55111154/100549504-41304680-3299-11eb-811c-570aae79deba.png"/>
+<img align="left" alt="VSCode" width="36px" src= "https://user-images.githubusercontent.com/55111154/100549504-41304680-3299-11eb-811c-570aae79deba.png"/> -->
+
 
 <br/>
 <br/>
-<br/>
+<hr>
 
-## My Github Statistics:
+## **⚙️ &nbsp;GitHub Analytics**
 
-![Sayantan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arka2001&theme=dracula&show_icons=true)
+<p align = "center">
+  <img align="top" src="https://github-readme-stats.vercel.app/api?username=Arka2001&show_icons=true&theme=onedark&locale=en&hide_border=true" alt="imkashyap" />
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arka2001&theme=onedark&hide_border=true&layout=compact">
+</p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Arka2001&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-![Top Languanges](https://github-readme-stats.vercel.app/api/top-langs/?username=Arka2001&layout=compact&theme=dracula)
 
 
 <!--
