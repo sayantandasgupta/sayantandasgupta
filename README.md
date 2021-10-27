@@ -46,6 +46,21 @@ My Interests :heart_eyes:<br>
   ![CPP](https://img.shields.io/badge/-CPP-333333?style=flat&logo=cplusplus)
   ![Kotlin](https://img.shields.io/badge/-Kotlin-333333?style=flat&logo=Kotlin)
 
+- Framework(s): &nbsp;
+  ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter&logoColor=007ACC)
+
+- Database(s):  &nbsp;
+  <!-- ![Firestore](https://img.shields.io/badge/-Firestore-333333?style=flat&logo=firebase)
+  ![MongoDB Atlas](https://img.shields.io/badge/-MongoDB%20Atlas-333333?style=flat&logo=mongodb) -->
+  ![MySql](https://img.shields.io/badge/-MySql-333333?style=flat&logo=mysql)
+
+- IDEs: &nbsp;
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![Android Studio](https://img.shields.io/badge/-Android%20Studio-333333?style=flat&logo=android-studio)
+
+- Text Editors: &nbsp;
+  ![Vim](https://img.shields.io/badge/-Vim-333333?style=flat&logo=vim)
+
 <!-- <img align = 'left' alt = 'Python' width='36px' src="https://user-images.githubusercontent.com/55111154/100546857-8ba9c700-3289-11eb-9627-ae469441946b.png"/>
 
 <img align = "left" alt = "C++" width = "46px" src="https://user-images.githubusercontent.com/55111154/100549944-5f4b7600-329c-11eb-8d47-a3d5f47bd248.png" />
