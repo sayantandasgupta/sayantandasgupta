@@ -53,11 +53,13 @@ My Interests :heart_eyes:<br>
 
 ## My Github Statistics:
 
-![Sayantan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arka2001&theme=tokyonight&show_icons=true)
+![Sayantan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arka2001&theme=dracula&show_icons=true)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Arka2001&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-![Top Languanges](https://github-readme-stats.vercel.app/api/top-langs/?username=Arka2001)
+![Top Languanges](https://github-readme-stats.vercel.app/api/top-langs/?username=Arka2001&layout=compact&theme=dracula)
+
+<!-- ![Weekly Status](https://github-readme-stats.vercel.app/api/wakatime?username=Arka2001&layout=compact&theme=dracula) -->
 
 
 <!--
