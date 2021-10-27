@@ -91,6 +91,12 @@ My Interests :heart_eyes:<br>
   <!-- <img align="top" src="https://github-profile-trophy.vercel.app/?username=Arka2001&theme=onedark"> -->
 </p>
 
+<hr>
+<br/>
+
+[![Sayantan's github activity graph](https://activity-graph.herokuapp.com/graph?username=Arka2001&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
 
 <!--
 **Arka2001/Arka2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
