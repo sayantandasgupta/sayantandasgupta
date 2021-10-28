@@ -108,7 +108,6 @@
   <!-- <img align="top" src="https://github-profile-trophy.vercel.app/?username=Arka2001&theme=onedark"> -->
 </p>
 
-<hr>
 <br/>
 
 [![Sayantan's github activity graph](https://activity-graph.herokuapp.com/graph?username=Arka2001&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
