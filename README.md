@@ -102,8 +102,9 @@
 ## **⚙️ &nbsp;GitHub Analytics**
 
 <p align = "center">
-  <img align="top" src="https://github-readme-stats.vercel.app/api?username=Arka2001&show_icons=true&theme=onedark&locale=en&hide_border=true" alt="imkashyap" />
-  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arka2001&theme=onedark&hide_border=true&layout=compact">
+  <img align="top" src="https://github-readme-stats.vercel.app/api?username=Arka2001&show_icons=true&theme=radical&locale=en&hide_border=true" alt="Arka2001" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Arka2001&theme=radical"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arka2001&theme=radical&hide_border=true&layout=compact" />
   <!-- <img align="top" src="https://github-profile-trophy.vercel.app/?username=Arka2001&theme=onedark"> -->
 </p>
 
