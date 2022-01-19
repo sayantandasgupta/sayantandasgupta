@@ -94,7 +94,7 @@
 
 <img align="right" alt="GIF" src="./assets/code.gif" width="450" height="320" />
 
-- :telescope: I’m currently working on an e commerce application using the Flutter framework and the Dart programming language with Firebase Firestore as its backend.
+- :telescope: I’m currently creating an Instagram Clone using the Flutter framework and the Dart programming language with Firebase Firestore as its backend.
 - :seedling: I’m currently increasing my Data Structures and Algorithms Skills using the Java programming language. I am also learning a little bit of the C programming language, the repository can be found [here](https://github.com/Arka2001/Learning-C). You can find my works [here](https://github.com/Arka2001?tab=repositories)
 - :speech_balloon: Ask me about Flutter, Java, Dart, Heartbreaks 😉, Python, Life Advices (Pun intended 😜)
 - 😄 Pronouns: He/Him
