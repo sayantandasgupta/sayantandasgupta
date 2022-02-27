@@ -15,7 +15,7 @@
 <p align='center'>
   
   <a href="mailto:sayantan.dasgupta@protonmail.com">
-    <img src="https://img.shields.io/badge/ProtonMail-D14835?style=for-the-badge&logo=protonmail&logoColor=white">
+    <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white">
   </a>&nbsp
  
   <a href="mailto:sayantan.dasgupta21@gmail.com">
