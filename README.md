@@ -13,6 +13,10 @@
 ### <p>📫 How to reach me:innocent:</p>
 
 <p align='center'>
+  
+  <a href="mailto:sayantan.dasgupta@protonmail.com">
+    <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white">
+  </a>&nbsp
  
   <a href="mailto:sayantan.dasgupta21@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
@@ -90,7 +94,7 @@
 
 <img align="right" alt="GIF" src="./assets/code.gif" width="450" height="320" />
 
-- :telescope: I’m currently working on an e commerce application using the Flutter framework and the Dart programming language with Firebase Firestore as its backend.
+- :telescope: I’m currently working on building React Native applications for practicing and honing my skills.
 - :seedling: I’m currently increasing my Data Structures and Algorithms Skills using the Java programming language. I am also learning a little bit of the C programming language, the repository can be found [here](https://github.com/Arka2001/Learning-C). You can find my works [here](https://github.com/Arka2001?tab=repositories)
 - :speech_balloon: Ask me about Flutter, Java, Dart, Heartbreaks 😉, Python, Life Advices (Pun intended 😜)
 - 😄 Pronouns: He/Him
@@ -110,7 +114,7 @@
 
 <br/>
 
-[![Sayantan's github activity graph](https://activity-graph.herokuapp.com/graph?username=Arka2001&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Sayantan's github activity graph](https://activity-graph.herokuapp.com/graph?username=Arka2001&theme=github&custom_title=Sayantan's%20Github%20Graph&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
