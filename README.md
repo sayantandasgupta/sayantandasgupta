@@ -1,4 +1,4 @@
-<p align="center"><img src="./assets/itachi.gif.gif" alt="kakashi says hi" /></p>
+<p align="center"><img src="./assets/itachi.gif" alt="Itachi Sharingan" /></p>
 
 #### Hola Amigos! Mucho Gusto <img src="./assets/hi.gif" width="28px" alt="waving hand" />
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=Arka2001&label=Profile%20Views&color=blue&style=plastic%22%20alt=%22Arka2001" /> </p> -->
