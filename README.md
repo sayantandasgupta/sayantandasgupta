@@ -3,7 +3,7 @@
 
 <p align='center'>
   My name is <b>Sayantan Dasgupta</b>.<br/>
-  I am a 3rd year student at <b>Institute of Engineering and Management, Kolkata</b>
+  I am a senior year student at <b>Institute of Engineering and Management, Kolkata</b>
 </p>
 <hr>
 
