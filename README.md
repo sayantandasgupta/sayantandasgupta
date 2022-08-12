@@ -112,7 +112,7 @@
 
 <br/>
 
-[![Sayantan's github activity graph](https://activity-graph.herokuapp.com/graph?username=Arka2001&theme=github&custom_title=Sayantan's%20Github%20Graph&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Sayantan's github activity graph](https://activity-graph.herokuapp.com/graph?username=Arka2001&theme=react-dark&custom_title=Sayantan's%20Github%20Graph&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
