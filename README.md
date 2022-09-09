@@ -57,8 +57,8 @@
 
 - Database(s):  &nbsp;
   ![MySql](https://img.shields.io/badge/-MySql-333333?style=flat&logo=mysql)
-  <!-- ![Firestore](https://img.shields.io/badge/-Firestore-333333?style=flat&logo=firebase)
-  ![MongoDB Atlas](https://img.shields.io/badge/-MongoDB%20Atlas-333333?style=flat&logo=mongodb) -->
+  ![MongoDB](https://img.shields.io/badge/-MongoDB%20Atlas-333333?style=flat&logo=mongodb)
+  <!-- ![Firestore](https://img.shields.io/badge/-Firestore-333333?style=flat&logo=firebase) -->
 
 - IDEs: &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
