@@ -33,7 +33,6 @@
 ### My Interests :heart_eyes:<br>
 
 - Anime
-- App Development
 - Machine Learning
 - History
 - Music :guitar:
