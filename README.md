@@ -44,14 +44,11 @@
 
 - Languages : &nbsp;
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007ACC)
-  ![Dart](https://img.shields.io/badge/-Dart-333333?style=flat&logo=Dart&logoColor=007ACC)
-  ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C)
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python)
-  ![CPP](https://img.shields.io/badge/-CPP-333333?style=flat&logo=cplusplus)
-  ![Kotlin](https://img.shields.io/badge/-Kotlin-333333?style=flat&logo=Kotlin)
+  ![TypeScript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=Typescript)
 
 - Framework(s): &nbsp;
-  ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter&logoColor=007ACC)
+  ![NodeJs](https://img.shields.io/badge/-NodeJs-333333?style=flat&logo=nodejs&logoColor=007ACC)
   ![Android](https://img.shields.io/badge/-Android-333333?style=flat&logo=android)
 
 - Database(s):  &nbsp;
