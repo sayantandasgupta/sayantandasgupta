@@ -89,7 +89,7 @@
 <img align="right" alt="GIF" src="./assets/code.gif" width="450" height="320" />
 
 - :telescope: I’m currently working on building NodeTS applications for practicing and honing my skills in backend development.
-- :seedling: I’m currently increasing my Data Structures and Algorithms Skills using the Java programming language. I am also learning a little bit of the C programming language, the repository can be found [here](https://github.com/Arka2001/Learning-C). You can find my works [here](https://github.com/Arka2001?tab=repositories)
+- :seedling: I’m currently increasing my Data Structures and Algorithms Skills using the Java programming language. I am also learning a little bit of the C programming language, the repository can be found [here](https://github.com/sayantandasgupta/Learning-C). You can find my works [here](https://github.com/sayantandasgupta?tab=repositories)
 - :speech_balloon: Ask me about Flutter, Java, Dart, Heartbreaks 😉, Python, Life Advices (Pun intended 😜)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Sometimes I pretend to be normal :sleepy: . But it is boring, so I go back to being myself 😉 :sunglasses:
@@ -100,15 +100,15 @@
 ## **⚙️ &nbsp;GitHub Analytics**
 
 <p align = "center">
-  <img align="top" src="https://github-readme-stats.vercel.app/api?username=Arka2001&show_icons=true&theme=tokyonight&locale=en&hide_border=true" alt="Arka2001" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Arka2001&theme=tokyonight"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arka2001&theme=tokyonight&hide_border=true&layout=compact" />
-  <!-- <img align="top" src="https://github-profile-trophy.vercel.app/?username=Arka2001&theme=onedark"> -->
+  <img align="top" src="https://github-readme-stats.vercel.app/api?username=sayantandasgupta&show_icons=true&theme=tokyonight&locale=en&hide_border=true" alt="sayantandasgupta" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sayantandasgupta&theme=tokyonight"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayantandasgupta&theme=tokyonight&hide_border=true&layout=compact" />
+  <!-- <img align="top" src="https://github-profile-trophy.vercel.app/?username=sayantandasgupta&theme=onedark"> -->
 </p>
 
 <br/>
 
-[![Sayantan's github activity graph](https://activity-graph.herokuapp.com/graph?username=Arka2001&theme=react-dark&custom_title=Sayantan's%20Github%20Graph&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Sayantan's github activity graph](https://activity-graph.herokuapp.com/graph?username=sayantandasgupta&theme=react-dark&custom_title=Sayantan's%20Github%20Graph&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
