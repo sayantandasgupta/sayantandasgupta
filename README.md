@@ -100,15 +100,13 @@
 ## **⚙️ &nbsp;GitHub Analytics**
 
 <p align = "center">
-  <img align="top" src="https://github-readme-stats.vercel.app/api?username=sayantandasgupta&show_icons=true&theme=tokyonight&locale=en&hide_border=true" alt="sayantandasgupta" />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sayantandasgupta&theme=tokyonight"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayantandasgupta&theme=tokyonight&hide_border=true&layout=compact" />
   <!-- <img align="top" src="https://github-profile-trophy.vercel.app/?username=sayantandasgupta&theme=onedark"> -->
 </p>
 
 <br/>
 
-[![Sayantan's github activity graph](https://activity-graph.herokuapp.com/graph?username=sayantandasgupta&theme=react-dark&custom_title=Sayantan's%20Github%20Graph&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!-- [![Sayantan's github activity graph](https://activity-graph.herokuapp.com/graph?username=sayantandasgupta&theme=react-dark&custom_title=Sayantan's%20Github%20Graph&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 
 
 
