@@ -3,7 +3,7 @@
 
 <p align='center'>
   My name is <b>Sayantan Dasgupta</b>.<br/>
-  I am a final year student at <b>Institute of Engineering and Management, Kolkata</b>
+  I am currently a Systems Engineer at <b>Tata Consultancy Services Ltd.</b>
 </p>
 <hr>
 
