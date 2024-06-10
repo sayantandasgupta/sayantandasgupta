@@ -8,14 +8,10 @@
 <hr>
 
 
-### <p>📫 How to reach me:innocent:</p>
+### <p>📫 How to reach me</p>
 
 <p align='center'>
   
-  <a href="mailto:sayantan.dasgupta@protonmail.com">
-    <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white">
-  </a>&nbsp
- 
   <a href="mailto:sayantan.dasgupta21@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>&nbsp
@@ -32,8 +28,11 @@
 
 ### My Interests :heart_eyes:<br>
 
+- DevOps
+- System Design
+- Cloud Technologies
 - Anime
-- Machine Learning
+- Japan and Japan's Culture
 - History
 - Music :guitar:
 
@@ -88,11 +87,11 @@
 
 <img align="right" alt="GIF" src="./assets/code.gif" width="450" height="320" />
 
-- :telescope: I’m currently working on building NodeTS applications for practicing and honing my skills in backend development.
+- :telescope: I’m currently building Python applications to be utilized as part of DevOps pipelines.
 - :seedling: I’m currently increasing my Data Structures and Algorithms Skills using the Java programming language. I am also learning a little bit of the C programming language, the repository can be found [here](https://github.com/sayantandasgupta/Learning-C). You can find my works [here](https://github.com/sayantandasgupta?tab=repositories)
-- :speech_balloon: Ask me about Flutter, Java, Dart, Heartbreaks 😉, Python, Life Advices (Pun intended 😜)
+- :speech_balloon: Ask me about Python, Java, Azure, Heartbreaks 😉, Python, Life Advice
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Sometimes I pretend to be normal :sleepy: . But it is boring, so I go back to being myself 😉 :sunglasses:
+- ⚡ Fun fact: Sometimes I pretend to be normal. But it is boring, so I go back to being myself 😉 :sunglasses:
 <!-- - :dancing_men: I’m looking to collaborate on ... -->
 
 <hr>
