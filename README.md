@@ -3,7 +3,7 @@
 
 <p align='center'>
   My name is <b>Sayantan Dasgupta</b>.<br/>
-  I am currently a Systems Engineer at <b>Tata Consultancy Services Ltd.</b>
+  I am currently a Consulting Software Engineer at <b><i>Caravel Labs, Inc.</i></b>
 </p>
 <hr>
 
